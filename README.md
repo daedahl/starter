@@ -1,12 +1,11 @@
 # Starter Project
 
-The seven rules of a great Git commit message
+The [seven rules](https://cbea.ms/git-commit/#imperative) for Git commit messages
 
-  1.  Separate subject from body with a blank line
-  2.  Limit the subject line to 50 characters
-  3.  Capitalize the subject line
-  4.  Do not end the subject line with a period
-  5.  Use the imperative mood in the subject line
-  6.  Wrap the body at 72 characters
-  7.  Use the body to explain what and why vs. how
-    from https://cbea.ms/git-commit/#imperative
+  1. Write a subject line in Imperative voice
+  2. Capitalize the first word in the subject line
+  3. Don't end the subject with a period
+  4. Subject line should be no more than 50 characters
+  5. Separate the subject line from the body with a blank line
+  6. Use the body to explain what and why vs. how
+  7. Wrap the body at 72 characters
