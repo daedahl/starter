@@ -1,1 +1,33 @@
 /* styles.css */
+* {
+  background: white;
+  margin: 0;
+}
+
+#header {
+  background-color: #1F2937;
+}
+
+#header h1 {
+  font: roboto 48px edtra-bold #F9FAF8;
+}
+
+#main {
+
+}
+
+.info {
+
+}
+
+.quote {
+
+}
+
+#action {
+
+}
+
+#footer {
+  background-color: #1F2937;
+}
