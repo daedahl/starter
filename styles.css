@@ -1,11 +1,32 @@
 /* styles.css */
 * {
-  background: white;
   margin: 0;
 }
 
 #header {
   background-color: #1F2937;
+  height: 400px;
+  display: flex;
+
+}
+
+#logo {
+  color: #F9FAF8;
+  font-weight: extra-bold;
+  font-size: 48px;
+  margin-right: auto;
+  padding-left: 25px;
+}
+
+.navbar {
+  margin: 15px;
+  display: flex;
+  color: #E5E7EB;
+  font-size: 18px;
+  flex-direction: row;
+  justify-content: flex-end;
+  /* align-items: flex-start; */
+  gap: 25px;
 }
 
 #header h1 {
