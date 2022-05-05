@@ -3,15 +3,20 @@
   margin: 0;
 }
 
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+
 #header {
   background-color: #1F2937;
   height: 400px;
   display: flex;
-
+  flex-wrap: wrap;
+  color: #F9FAF8;
 }
 
 #logo {
-  color: #F9FAF8;
   font-weight: extra-bold;
   font-size: 48px;
   margin-right: auto;
@@ -29,10 +34,32 @@
   gap: 25px;
 }
 
-#header h1 {
+.title {
+  margin-left: 25px;
+}
+
+h1 {
   font: roboto 48px edtra-bold #F9FAF8;
 }
 
+p {
+  color: #E5E7EB;
+}
+
+img {
+  width: 250px;
+  height: 150px;
+  background-color: grey;
+  margin-left: 100px;
+}
+
+button {
+  background-color: #3882F6;
+  padding: 7px;
+  border-radius: 7px;
+  color: white;
+  border: 0;
+}
 #main {
 
 }
