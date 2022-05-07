@@ -51,6 +51,7 @@ img {
   height: 150px;
   background-color: grey;
   margin-left: 100px;
+  align-self: center;
 }
 
 button {
