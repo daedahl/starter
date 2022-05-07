@@ -10,9 +10,16 @@ The [seven rules](https://cbea.ms/git-commit/#imperative) for Git commit message
   6. Use the body to explain what and why vs. how
   7. Wrap the body at 72 characters
 
+CSSTricks
+
 ### Flexbox
+
+W3C Candidate Recommendation, 19 November 2018
 
 The flex declaration is shorthand for
 - flex-grow
 - flex-shrink
 - flex-basis
+
+
+### Grid
